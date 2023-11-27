@@ -1,6 +1,6 @@
 <template>
   <div>
-    摩登生活
+    摩登生活1
   </div>
 </template>
 
