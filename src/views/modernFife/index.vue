@@ -6,7 +6,7 @@
     >
        <span>加法等于:{{ addNum }}</span>    <br />
 
-    摩登生活1
+    摩登生活1 摩登生活
   </div>
 </template>
 
